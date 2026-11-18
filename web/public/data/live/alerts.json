@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-18T01:40:06+00:00",
+ "generated_utc": "2026-11-18T04:15:58+00:00",
  "source": "NASA FIRMS API (VIIRS_NOAA20_NRT)",
  "alerts": [
   {
@@ -8,11 +8,11 @@
    "level": "extreme",
    "month": "2026-11",
    "from_day": 1,
-   "through_day": 17,
-   "hotspots_month_to_date": 45.7,
-   "usual": 5,
+   "through_day": 18,
+   "hotspots_month_to_date": 47.7,
+   "usual": 6,
    "percentile": 100.0,
-   "text": "Palestine: EXTREME. 2026-11 days 1-17: 46 hotspots vs usual 5 (higher than 100% of past years)."
+   "text": "Palestine: EXTREME. 2026-11 days 1-18: 48 hotspots vs usual 6 (higher than 100% of past years)."
   },
   {
    "area": "portugal",
@@ -20,11 +20,11 @@
    "level": "high",
    "month": "2026-11",
    "from_day": 1,
-   "through_day": 17,
+   "through_day": 18,
    "hotspots_month_to_date": 238.4,
-   "usual": 31,
+   "usual": 44.5,
    "percentile": 91.3,
-   "text": "Portugal: HIGH. 2026-11 days 1-17: 238 hotspots vs usual 31 (higher than 91% of past years)."
+   "text": "Portugal: HIGH. 2026-11 days 1-18: 238 hotspots vs usual 44 (higher than 91% of past years)."
   },
   {
    "area": "jordan",
@@ -32,11 +32,11 @@
    "level": "elevated",
    "month": "2026-11",
    "from_day": 1,
-   "through_day": 17,
-   "hotspots_month_to_date": 31.1,
+   "through_day": 18,
+   "hotspots_month_to_date": 34.1,
    "usual": 13,
    "percentile": 87.0,
-   "text": "Jordan: ELEVATED. 2026-11 days 1-17: 31 hotspots vs usual 13 (higher than 87% of past years)."
+   "text": "Jordan: ELEVATED. 2026-11 days 1-18: 34 hotspots vs usual 13 (higher than 87% of past years)."
   },
   {
    "area": "lebanon",
@@ -44,11 +44,23 @@
    "level": "elevated",
    "month": "2026-11",
    "from_day": 1,
-   "through_day": 17,
-   "hotspots_month_to_date": 62.3,
-   "usual": 8,
+   "through_day": 18,
+   "hotspots_month_to_date": 68.1,
+   "usual": 10,
    "percentile": 82.6,
-   "text": "Lebanon: ELEVATED. 2026-11 days 1-17: 62 hotspots vs usual 8 (higher than 83% of past years)."
+   "text": "Lebanon: ELEVATED. 2026-11 days 1-18: 68 hotspots vs usual 10 (higher than 83% of past years)."
+  },
+  {
+   "area": "attica",
+   "label": "Attica (Greece)",
+   "level": "elevated",
+   "month": "2026-11",
+   "from_day": 1,
+   "through_day": 18,
+   "hotspots_month_to_date": 9.7,
+   "usual": 4.8,
+   "percentile": 78.3,
+   "text": "Attica (Greece): ELEVATED. 2026-11 days 1-18: 10 hotspots vs usual 5 (higher than 78% of past years)."
   }
  ],
  "disclaimer": "Not an emergency service. Satellite data have hours of delay."
