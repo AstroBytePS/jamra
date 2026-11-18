@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-18T10:23:49+00:00",
+ "generated_utc": "2026-11-18T13:34:57+00:00",
  "source": "NASA FIRMS API (VIIRS_NOAA20_NRT)",
  "alerts": [
   {
@@ -9,10 +9,22 @@
    "month": "2026-11",
    "from_day": 1,
    "through_day": 18,
-   "hotspots_month_to_date": 47.7,
+   "hotspots_month_to_date": 48.6,
    "usual": 6,
    "percentile": 100.0,
-   "text": "Palestine: EXTREME. 2026-11 days 1-18: 48 hotspots vs usual 6 (higher than 100% of past years)."
+   "text": "Palestine: EXTREME. 2026-11 days 1-18: 49 hotspots vs usual 6 (higher than 100% of past years)."
+  },
+  {
+   "area": "jordan",
+   "label": "Jordan",
+   "level": "high",
+   "month": "2026-11",
+   "from_day": 1,
+   "through_day": 18,
+   "hotspots_month_to_date": 40.9,
+   "usual": 13,
+   "percentile": 95.7,
+   "text": "Jordan: HIGH. 2026-11 days 1-18: 41 hotspots vs usual 13 (higher than 96% of past years)."
   },
   {
    "area": "portugal",
@@ -27,28 +39,16 @@
    "text": "Portugal: HIGH. 2026-11 days 1-18: 238 hotspots vs usual 44 (higher than 91% of past years)."
   },
   {
-   "area": "jordan",
-   "label": "Jordan",
-   "level": "elevated",
-   "month": "2026-11",
-   "from_day": 1,
-   "through_day": 18,
-   "hotspots_month_to_date": 34.1,
-   "usual": 13,
-   "percentile": 87.0,
-   "text": "Jordan: ELEVATED. 2026-11 days 1-18: 34 hotspots vs usual 13 (higher than 87% of past years)."
-  },
-  {
    "area": "lebanon",
    "label": "Lebanon",
    "level": "elevated",
    "month": "2026-11",
    "from_day": 1,
    "through_day": 18,
-   "hotspots_month_to_date": 68.1,
+   "hotspots_month_to_date": 70.1,
    "usual": 10,
-   "percentile": 82.6,
-   "text": "Lebanon: ELEVATED. 2026-11 days 1-18: 68 hotspots vs usual 10 (higher than 83% of past years)."
+   "percentile": 87.0,
+   "text": "Lebanon: ELEVATED. 2026-11 days 1-18: 70 hotspots vs usual 10 (higher than 87% of past years)."
   },
   {
    "area": "attica",
