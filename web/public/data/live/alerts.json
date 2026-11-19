@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-19T01:35:55+00:00",
+ "generated_utc": "2026-11-19T04:19:11+00:00",
  "source": "NASA FIRMS API (VIIRS_NOAA20_NRT)",
  "alerts": [
   {
@@ -9,10 +9,10 @@
    "month": "2026-11",
    "from_day": 1,
    "through_day": 18,
-   "hotspots_month_to_date": 48.6,
+   "hotspots_month_to_date": 51.6,
    "usual": 6,
    "percentile": 100.0,
-   "text": "Palestine: EXTREME. 2026-11 days 1-18: 49 hotspots vs usual 6 (higher than 100% of past years)."
+   "text": "Palestine: EXTREME. 2026-11 days 1-18: 52 hotspots vs usual 6 (higher than 100% of past years)."
   },
   {
    "area": "jordan",
@@ -21,10 +21,10 @@
    "month": "2026-11",
    "from_day": 1,
    "through_day": 18,
-   "hotspots_month_to_date": 40.9,
+   "hotspots_month_to_date": 41.8,
    "usual": 13,
    "percentile": 95.7,
-   "text": "Jordan: HIGH. 2026-11 days 1-18: 41 hotspots vs usual 13 (higher than 96% of past years)."
+   "text": "Jordan: HIGH. 2026-11 days 1-18: 42 hotspots vs usual 13 (higher than 96% of past years)."
   },
   {
    "area": "portugal",
