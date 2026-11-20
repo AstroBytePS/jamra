@@ -1,8 +1,8 @@
 {
- "last_attempt_utc": "2026-11-20T16:14:39+00:00",
+ "last_attempt_utc": "2026-11-20T19:23:39+00:00",
  "ok": true,
- "last_success_utc": "2026-11-20T16:14:39+00:00",
+ "last_success_utc": "2026-11-20T19:23:39+00:00",
  "source": "NASA FIRMS API (VIIRS_NOAA20_NRT)",
- "message": "6813 rows received, 58 new; 769 hotspots in the last 7 days",
+ "message": "6813 rows received, 0 new; 769 hotspots in the last 7 days",
  "through_date": "2026-11-20"
 }
