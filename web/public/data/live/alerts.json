@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-21T13:19:50+00:00",
+ "generated_utc": "2026-11-21T16:01:40+00:00",
  "source": "NASA FIRMS API (VIIRS_NOAA20_NRT)",
  "alerts": [
   {
@@ -9,7 +9,7 @@
    "month": "2026-11",
    "from_day": 1,
    "through_day": 21,
-   "hotspots_month_to_date": 53.5,
+   "hotspots_month_to_date": 54.5,
    "usual": 8,
    "percentile": 100.0,
    "text": "Palestine: EXTREME. 2026-11 days 1-21: 54 hotspots vs usual 8 (higher than 100% of past years)."
@@ -33,10 +33,10 @@
    "month": "2026-11",
    "from_day": 1,
    "through_day": 21,
-   "hotspots_month_to_date": 243.2,
+   "hotspots_month_to_date": 244.2,
    "usual": 50,
    "percentile": 91.3,
-   "text": "Portugal: HIGH. 2026-11 days 1-21: 243 hotspots vs usual 50 (higher than 91% of past years)."
+   "text": "Portugal: HIGH. 2026-11 days 1-21: 244 hotspots vs usual 50 (higher than 91% of past years)."
   },
   {
    "area": "lebanon",
