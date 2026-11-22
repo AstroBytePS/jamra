@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-22T13:18:12+00:00",
+ "generated_utc": "2026-11-22T16:00:24+00:00",
  "source": "NASA FIRMS API (VIIRS_NOAA20_NRT)",
  "alerts": [
   {
@@ -9,7 +9,7 @@
    "month": "2026-11",
    "from_day": 1,
    "through_day": 22,
-   "hotspots_month_to_date": 55.5,
+   "hotspots_month_to_date": 56.4,
    "usual": 9,
    "percentile": 100.0,
    "text": "Palestine: EXTREME. 2026-11 days 1-22: 56 hotspots vs usual 9 (higher than 100% of past years)."
