@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-27T13:38:59+00:00",
+ "generated_utc": "2026-11-27T16:23:22+00:00",
  "source": "NASA FIRMS API (VIIRS_NOAA20_NRT)",
  "alerts": [
   {
@@ -45,10 +45,10 @@
    "month": "2026-11",
    "from_day": 1,
    "through_day": 27,
-   "hotspots_month_to_date": 101.2,
+   "hotspots_month_to_date": 103.1,
    "usual": 11,
    "percentile": 91.3,
-   "text": "Lebanon: HIGH. 2026-11 days 1-27: 101 hotspots vs usual 11 (higher than 91% of past years)."
+   "text": "Lebanon: HIGH. 2026-11 days 1-27: 103 hotspots vs usual 11 (higher than 91% of past years)."
   },
   {
    "area": "central_portugal",
